@@ -1,4 +1,4 @@
-> ## Documentation Index
+> ## Documentation Index 
 > Fetch the complete documentation index at: https://anaconda.com/docs/llms.txt
 > Use this file to discover all available pages before exploring further.
 
@@ -17,8 +17,11 @@ packages are available in each installer, organized by operating system.
 
   ## Bug fixes
 
-  * Fixed a bug in `.exe` installers that prevented uninstallation if the installation was added to `PATH`.<Accordion title="Packages">
-  * <Tabs>      <Tab title="All Platforms" >
+  * Fixed a bug in `.exe` installers that prevented uninstallation if the installation was added to `PATH`.
+  
+  
+: <Accordion title="Packages"><Tabs>
+<Tab title="All Platforms" >
         <table>
           <thead><tr>
            <tr
